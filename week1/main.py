@@ -6,6 +6,6 @@ from time_conversion import timeConversion
 from diagonal_difference import diagonalDifference
 from counting_sort import countingSort
 from pangram import pangrams
+from sub_division import birthdays
 
-
-print(pangrams('The quick brown fox jumps over the lazy dog'))
+print(birthdays([4], 4, 1))
